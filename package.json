@@ -41,8 +41,15 @@
     ]
   },
   "devDependencies": {
+    "@mycv/f8-notification": "^1.0.1",
     "@tensorflow-models/knn-classifier": "^1.2.2",
     "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensorflow/tfjs": "^3.12.0",
+    "@tensorflow/tfjs-backend-webgl": "^3.12.0",
+    "@tensorflow/tfjs-converter": "^3.12.0",
+    "@tensorflow/tfjs-core": "^3.12.0",
+    "@types/howler": "^2.2.4",
+    "@types/webrtc": "^0.0.31",
     "howler": "^2.2.3"
   }
 }
